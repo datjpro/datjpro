@@ -5,7 +5,7 @@
 <h2 align="center">Hi 👋, I'm Thanh Dat <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="25"/></h2>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
-  <h3 align="center">Currently studying at HUTECH <img align="center" width="25" src="https://api.hutech.edu.vn/files/public/file-avatar/mq/0da4239d1cc3bc00d17c6291007290c0.jpegpng="HUTECH Logo"/> </h3>
+  <h3 align="center">Currently studying at HUTECH <img align="center" width="25" src="https://upload.wikimedia.org/wikipedia/vi/8/81/Logo_Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_C%C3%B4ng_ngh%E1%BB%87_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh.png"/> </h3>
 </p>
 
 
