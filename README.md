@@ -35,12 +35,16 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" alt="Visual Studio" width="48" height="48"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/cursor.png" alt="Cursor" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub" width="48" height="48"/>
+  
 </p>
 
 
