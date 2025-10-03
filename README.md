@@ -46,7 +46,7 @@
 </div>
 ### DevOps & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman" alt="DevOps & Tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman,ganache" alt="DevOps & Tools"/>
 </div>
 ### Design & Other Tools
 <div align="center">
